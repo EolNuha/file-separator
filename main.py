@@ -38,7 +38,7 @@ categories = [
         "name": "images",
         "extensions": (".png", ".jpg", ".jpeg", ".bmp", ".gif", ".webp", "ico"),
     },
-    {"name": "videos", "extensions": (".mp4", ".mov", ".flv", ".avi", ".webm")},
+    {"name": "videos", "extensions": (".mp4", ".mov", ".mkv", ".flv", ".avi", ".webm")},
     {"name": "audios", "extensions": (".mp3", ".flac", ".wav")},
     {"name": "documents", "extensions": (".pdf", ".docx", ".xlsx", ".pptx")},
     {
